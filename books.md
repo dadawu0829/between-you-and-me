@@ -13,6 +13,8 @@
 程式 | Terraform: Up and Running: Writing Infrastructure as Code | babygoat | https://www.tenlong.com.tw/products/9781491977088?list_name=srh | 辦公室
 設計 | 設計思考改造世界 |  gina | https://www.books.com.tw/products/0010479685 | 法賢家
 設計 | 設計・Design・デザイン | gina | https://www.books.com.tw/products/0010787688?loc=P_003_026 | 辦公室
+設計 | 設計的鐵則：看見客戶真實需求！邁向成功設計師 | Da | https://www.books.com.tw/products/0010810666 | 在路上
+設計 | 設計是一種思維：從設計師到客戶角度探討如何做出好設計 | Da | https://www.books.com.tw/products/0010788239 | 在路上
 
 
 # 待購買書單
